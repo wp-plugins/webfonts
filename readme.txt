@@ -18,13 +18,7 @@ To use this plugin you need to sign up a webfonts.fonts.com account, install the
 
 You can also used the WYSIWYG editor with web fonts enabled in the plugin so you can type the content and see real web fonts as you type. There are options to enable the web fonts WYSIWYG to Admin or/and visitors. The web fonts in the WYSIWYG can also be configured. It will provide the same editing experience as you using a desktop editor with fonts selection.
 
-A few notes about the sections above:
 
-*   "Contributors" is a comma separated list of wp.org/wp-plugins.org usernames
-*   "Tags" is a comma separated list of tags that apply to the plugin
-*   "Requires at least" is the lowest version that the plugin will work on
-*   "Tested up to" is the highest version that you've *successfully used to test the plugin*. Note that it might work on
-higher versions... this is just the highest one you've verified.
 
 == Installation ==
 
